@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://digiwestern.github.io/csb-67yjqg/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://digiwestern.github.io/csb-67yjqg/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://digiwestern.github.io/csb-67yjqg/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://digiwestern.github.io/csb-67yjqg/static/js/runtime-main.bb6c9db1.js",
+    "runtime-main.js.map": "https://digiwestern.github.io/csb-67yjqg/static/js/runtime-main.bb6c9db1.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://digiwestern.github.io/csb-67yjqg/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://digiwestern.github.io/csb-67yjqg/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://digiwestern.github.io/csb-67yjqg/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://digiwestern.github.io/csb-67yjqg/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://digiwestern.github.io/csb-67yjqg/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb6c9db1.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
